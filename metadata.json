@@ -1,0 +1,8 @@
+{
+  "name": "EUDGUIDE - Student Discipline & Study Control",
+  "description": "A smart study discipline app featuring multi-child management, study timers with parent-locked alarms, XP rewards, and security verification.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
